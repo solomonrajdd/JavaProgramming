@@ -1,0 +1,6 @@
+this is text file 2
+to demo the following activitiess
+1. create a new file in local repo
+2. add this file to branch
+3. commit the file to branch master
+4. push the new file to origin master
